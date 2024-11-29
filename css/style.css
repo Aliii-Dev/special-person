@@ -20,6 +20,14 @@ body{
 .greetings > span{
     animation: glow 2.5s ease-in-out infinite;
 }
+
+.isi{
+    font-size: 3rem;
+    font-weight: 500;
+}
+.isi > span{
+    animation: glow 2.5s ease-in-out infinite;
+}
 @keyframes glow{
     0%, 100%{
         color: #fff;
